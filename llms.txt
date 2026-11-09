@@ -8,6 +8,7 @@
 
 ## Начало работы
 
+- [Публичная страница архива](https://varis2.github.io/osnova-archive/)
 - [README — описание и навигация по архиву](https://github.com/varis2/osnova-archive/blob/main/README.md)
 - [Летопись Основа](https://github.com/varis2/osnova-archive/blob/main/letopis.md)
 - [Все файлы репозитория](https://github.com/varis2/osnova-archive)
